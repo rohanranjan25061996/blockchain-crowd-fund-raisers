@@ -51,7 +51,7 @@ Here is name of technologies is used to build Save & Help application.
  balance is enough to make transaction or not. If current user doesn't have fund which required to do transaction, then user will get error.
  We are also showing total amount and collected amount in the form of indian rupess for better understanding for the user.
 
-Also write unit test, which is covering all the valid and invalid of code.
+Also write unit test, which is covering all the valid and invalid of scenario.
 
 open for the suggestions..
 #### -------------------------- Thank you so much --------------------------------------
