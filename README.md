@@ -2,7 +2,7 @@
 # Overview
 
 ## Save & Help
-(https://blockchain-crowd-fund-raisers.netlify.app/)
+(https://blockchain-crowd-fund-raiser.netlify.app)
 
 Save & Help is a web application which is basically inspired with Ketto.org (https://www.ketto.org/)
 As we know that there is so many people in this world who is suffering from different different
