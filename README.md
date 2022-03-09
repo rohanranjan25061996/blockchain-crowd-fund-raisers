@@ -2,7 +2,7 @@
 # Overview
 
 ## Save & Help
-(https://blockchain-crowd-fund-raisers.netlify.app/)
+(https://blockchain-crowd-fund-raiser.netlify.app)
 
 Save & Help is a web application which is basically inspired with Ketto.org (https://www.ketto.org/)
 As we know that there is so many people in this world who is suffering from different different
@@ -51,7 +51,7 @@ Here is name of technologies is used to build Save & Help application.
  balance is enough to make transaction or not. If current user doesn't have fund which required to do transaction, then user will get error.
  We are also showing total amount and collected amount in the form of indian rupess for better understanding for the user.
 
-Also write unit test, which is covering all the valid and invalid of code.
+Also write unit test, which is covering all the valid and invalid scenario.
 
 open for the suggestions..
 #### -------------------------- Thank you so much --------------------------------------
